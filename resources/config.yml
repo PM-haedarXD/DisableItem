@@ -1,11 +1,7 @@
 disabled-items:
   - "tnt"
-  - "46"
   - "lava_bucket"
-  - "flint_and_steel"
-  - "fire_charge"
   - "lava"
-  - "water_bucket"
 
 block-place: true
 block-use: true
