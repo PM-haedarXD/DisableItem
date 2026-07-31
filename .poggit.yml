@@ -1,0 +1,7 @@
+projects:
+  DisableItem:
+    path: ""
+    model: default
+    icon: ""
+    lint: false
+    compressBuilds: false
