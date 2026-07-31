@@ -1,0 +1,7 @@
+name: DisableItem
+version: 1.0.0
+api: 5.0.0
+main: haedarXD\DisableItem\Main
+author: haedarXD
+description: Disable any item from your server
+website: https://github.com/PM-haedarXD/DisableItem
