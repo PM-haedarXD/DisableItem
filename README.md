@@ -19,9 +19,11 @@ Disable any item on your server with a simple configuration.
     <img src="https://img.shields.io/badge/PHP-8+-777BB4?style=for-the-badge&logo=php">
 </p>
 
+</div>
+
 ---
 
-### ✨ Features
+## ✨ Features
 
 | ✅ Feature | Description |
 |------------|-------------|
@@ -54,7 +56,6 @@ Disable any item on your server with a simple configuration.
 disabled-items:
   - TNT
   - Lava
-  - Flint
 
 block-place: true
 block-use: true
@@ -106,5 +107,3 @@ GitHub: **PM-haedarXD**
 This project is licensed under the **MIT License**.
 
 ⭐ If you like this project, consider leaving a **Star** on GitHub!
-
-</div>
